@@ -1,0 +1,23 @@
+
+.bg-container{
+    background: linear-gradient(to bottom, #FDFFFC,#F2A65A,#F49E4C);
+    height: 100vh;
+}
+.input-box{
+    outline: none;
+    border-radius: 6px;
+}
+#card-bg-1{
+    background-color: #FF7E6B;
+}
+#card-bg-2{
+    background-color: #EEF36A;
+}
+#card-bg-3{
+    background-color: rgb(103, 248, 103);
+}
+.btn-bg{
+    background-color: #FFFFFF;
+    border: none;
+    color: black;
+}

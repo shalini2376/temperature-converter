@@ -16,8 +16,10 @@
 #card-bg-3{
     background-color: rgb(103, 248, 103);
 }
-.btn-bg{
+#Btn-bg{
     background-color: #FFFFFF;
     border: none;
     color: black;
+    border-radius: 5px;
+    cursor: auto;
 }

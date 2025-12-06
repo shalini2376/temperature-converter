@@ -31,12 +31,13 @@ No additional setup required.
 │── index.html
 │── style.css
 │── script.js
+│── temprature_convertor.png
 │── README.md
 
 ```
 
 ## 📸 Screenshot
-![Temperature Converter Screenshot](./temperatureConverter.png)
+![Temperature Converter Screenshot](./temprature_convertor.png)
 
 
 
